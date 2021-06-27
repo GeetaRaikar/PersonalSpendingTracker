@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612666052733",
+    "project_id": "personal-spending-tracker",
+    "storage_bucket": "personal-spending-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612666052733:android:3648adb5115e9c60dca114",
+        "android_client_info": {
+          "package_name": "com.nita.infotech.tracker.pst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612666052733-q3pdofo4eb3tlfs7sdpgivpshkdtic6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3UnTLbvnJXZjnuQ9J5v-s-R30QDMkyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612666052733-q3pdofo4eb3tlfs7sdpgivpshkdtic6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

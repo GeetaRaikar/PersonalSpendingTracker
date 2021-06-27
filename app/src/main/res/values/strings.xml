@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PersonalSpendingTracker</string>
+    <string name="smsServiceUrl">http://sms.masterwebwork.com/api/sendhttp.php?</string>
+    <string name="smsServiceApiKey">4804AfMvfSSOpSun59378d35</string>
+    <string name="smsServiceSenderId">LOGSTC</string>
+
+    <string name="errInvalidMobNum">Mobile Number is not registered</string>
+    <string name="errInvalidPassword">Invalid Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="expense">Expense</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="submit">Submit</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="pst">Personal Spending Tracker</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Date of Birth</string>
+    <string name="totalExpense">Total Expense</string>
+    <string name="addExpense">Add Expense</string>
+    <string name="selectExpenseCategory">Select Category</string>
+    <string name="amount">Amount</string>
+    <string name="Date">Date</string>
+    <string name="save">Save</string>
+    <string name="selectMonth">Select Month</string>
+    <string name="selectYear">Select Year</string>
+    <string name="note">Notes</string>
+    <string name="salary">Salary</string>
+    <string-array name="month_option_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
